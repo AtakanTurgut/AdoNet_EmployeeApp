@@ -1,0 +1,6 @@
+C:\Users\Excalibur\Desktop\adonet\Data\Data\bin\Debug\Data.dll
+C:\Users\Excalibur\Desktop\adonet\Data\Data\bin\Debug\Data.pdb
+C:\Users\Excalibur\Desktop\adonet\Data\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\adonet\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\adonet\Data\Data\obj\Debug\Data.dll
+C:\Users\Excalibur\Desktop\adonet\Data\Data\obj\Debug\Data.pdb

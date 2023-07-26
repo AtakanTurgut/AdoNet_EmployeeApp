@@ -1,0 +1,16 @@
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\bin\Debug\Presentation.exe
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\obj\Debug\Presentation.exe
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\bin\Debug\Service.dll
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\bin\Debug\Data.dll
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\bin\Debug\Service.pdb
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\bin\Debug\Data.pdb
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\obj\Debug\Presentation.EmployeeView.resources
+C:\Users\Excalibur\Desktop\adonet\Data\Presentation\obj\Debug\Presentation.csproj.CopyComplete

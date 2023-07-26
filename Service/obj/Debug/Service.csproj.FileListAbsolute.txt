@@ -1,0 +1,9 @@
+C:\Users\Excalibur\Desktop\adonet\Data\Service\bin\Debug\Service.dll
+C:\Users\Excalibur\Desktop\adonet\Data\Service\bin\Debug\Service.pdb
+C:\Users\Excalibur\Desktop\adonet\Data\Service\bin\Debug\Data.dll
+C:\Users\Excalibur\Desktop\adonet\Data\Service\bin\Debug\Data.pdb
+C:\Users\Excalibur\Desktop\adonet\Data\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\adonet\Data\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\adonet\Data\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Excalibur\Desktop\adonet\Data\Service\obj\Debug\Service.dll
+C:\Users\Excalibur\Desktop\adonet\Data\Service\obj\Debug\Service.pdb
