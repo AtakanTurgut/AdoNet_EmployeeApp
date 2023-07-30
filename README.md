@@ -3,7 +3,7 @@
 Layered architecture usually consists of three layers; <br />
 1. Data Access Layer (DAL)  <br />
 2. Busines Layer (BL)       <br />
-3. Presentation Layer (BL)  <br />
+3. Presentation Layer (PL)  <br />
 
 'class library' was used in the project. <br />
 Multiple projects are created. They reference each other.   <br />
